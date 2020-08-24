@@ -1,1 +1,7 @@
-printf("Ben Schramm");
+
+int main(int argc, char **argv) {
+
+	printf("Ben Schramm\n");
+	printf("Computer Science\n");
+	return 0;
+}
